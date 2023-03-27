@@ -4,5 +4,4 @@
 
 ### I make random useless stuff and put them here
 ![](https://komarev.com/ghpvc/?username=YeetDisDude&color=green)
-
-
+![](https://img.shields.io/github/stars/YeetDisDude?style=social)
