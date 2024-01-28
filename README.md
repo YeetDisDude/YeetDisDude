@@ -1,6 +1,6 @@
 <h1 align="center">im bad at coding</h1>
 <h3 align="center">i make random useless stuff.</h3>
-
+ 
 - Discord: YeetDisDude#0001
 - Learning C++ 
 - Pixel Gun iOS modder (learning pc modding)
