@@ -3,7 +3,6 @@
    
 - Discord: YeetDisDude#0001
 - Learning C++ 
-- Pixel Gun iOS modder (learning pc modding)
 - New Years Resolution:
   - have at least 1 commit every single day for 366 days (feb 12th ruined my entire 2024)
   - get better at c++
